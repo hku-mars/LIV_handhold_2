@@ -57,7 +57,7 @@
 | LiDAR    | [Livox Mid-360](https://www.livoxtech.com/cn/mid-360) | ¥3999 (≈ $560) | <img src="docs/assets/lidar.png" alt="MID-360" width="120px"> |
 | Camera   | [Hikvision MV-CU013-A0UC](https://www.hikrobotics.com/cn/machinevision/productdetail/?id=12628) | ¥700 (≈ $100) | <img src="docs/assets/camera.png" alt="Camera" width="120px"> |
 | Lens     | [Hikvision MVL-HF0628M-6MPE](https://www.hikrobotics.com/en/machinevision/productdetail/?id=4871) | ¥150 (≈ $20) | <img src="docs/assets/lens.png" alt="Lens" width="120px"> |
-| Wire     | [LiDAR–Camera Hardware Synchronizer](https://item.taobao.com/item.htm?id=842691502949) | ¥500 (≈ $70) | <img src="docs/assets/sync.png" alt="Sync" width="120px"> |
+| Wire     | [LiDAR-Camera Hardware Synchronizer](https://item.taobao.com/item.htm?id=842691502949) | ¥500 (≈ $70) | <img src="docs/assets/sync.png" alt="Sync" width="120px"> |
 | Battery  | [12V DC Battery](https://detail.tmall.com/item.htm?id=657166348854) | ¥99 (≈ $15) | <img src="docs/assets/battery.png" alt="Battery" width="120px"> |
 
 ---
@@ -107,15 +107,14 @@ rosbag record /livox/lidar /livox/imu /left_camera/image
 ```
 
 > **Note**  
-> The [mvs_ros_driver](./mvs_ros_driver) and [livox_ros_driver2](./livox_ros_driver2) are the same as those in [LIV_handhold](https://github.com/xuankuzcr/LIV_handhold), with modifications to support millisecond-level hardware synchronization.
-
+> The [mvs_ros_driver](./mvs_ros_driver) and [livox_ros_driver2](./livox_ros_driver2) are the same as those in [LIV_handhold](https://github.com/xuankuzcr/LIV_handhold), and include modifications to support millisecond-level hardware synchronization.
 
 ---
 
 ## LiDAR-Camera Joint Calibration
 
 1. Calibrate camera intrinsics. e.g. [matlab](https://ustc-flicar.github.io/calibration/index#cameras).
-2. Use [FAST-Calib](https://github.com/hku-mars/FAST-Calib) for LiDAR-camera extrinsic calibration.
+2. Use [FAST-Calib](https://github.com/hku-mars/FAST-Calib) for LiDAR–camera extrinsic calibration.
 
 <p align="center">
   <img src="docs/assets/33.jpg" alt="camera calibration" width="44%"/>

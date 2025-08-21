@@ -78,7 +78,7 @@ Solidworks 图纸在 [liv_eye_cad](./liv_eye_cad) 中提供，用户可下载进
 
 
 > **Note**
-> 如果无需使用LiDAR–Camera 硬件同步器，请参考[LIV_handhold](https://github.com/xuankuzcr/LIV_handhold)中的连线方式与STM32硬件同步方案。
+> 如果无需使用LiDAR-Camera 硬件同步器，请参考[LIV_handhold](https://github.com/xuankuzcr/LIV_handhold)中的连线方式与STM32硬件同步方案。
 
 ## 驱动安装与运行
 
