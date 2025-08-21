@@ -23,7 +23,7 @@
 - [Assembly](#assembly)
 - [Wiring](#wiring)
 - [Driver Installation and Run](#driver-installation-and-run)
-- [LiDAR–Camera Joint Calibration](#lidar-camera-joint-calibration)
+- [LiDAR-Camera Joint Calibration](#lidar-camera-joint-calibration)
 - [Running FAST-LIVO2](#running-fast-livo2)
 - [Platform Adaptability](#platform-adaptability)
 - [Acknowledgements](#acknowledgements)
@@ -32,7 +32,7 @@
 ---
 
 ## Highlights
-> **One sentence summary**: A ~¥5000 (≈ $700) fully open-source hardware/software LiDAR–Inertial-Visual fusion perception kit. ⚙️ Easy assembly, no soldering, one-click reproducibility. 🐳 Supports ROS1/ROS2 and Docker, 🧭 full calibration workflow (intrinsic/extrinsic/time sync), 🧰 compatible with FAST-LIVO2 algorithms, and delivers colored point cloud and odometry results in just 5 minutes.
+> **One sentence summary**: A ~¥5000 (≈ $700) fully open-source hardware/software LiDAR-Inertial-Visual fusion perception kit. ⚙️ Easy assembly, no soldering, one-click reproducibility. 🐳 Supports ROS1/ROS2 and Docker, 🧭 full calibration workflow (intrinsic/extrinsic/time sync), 🧰 compatible with FAST-LIVO2 algorithms, and delivers colored point cloud and odometry results in just 5 minutes.
 
 ---
 
@@ -83,7 +83,7 @@ The diagram below shows the complete wiring of **LIV-Eye**, in just six steps:
 </p>
 
 > **Note**  
-> If you do not need to use the LiDAR–Camera hardware synchronizer, please refer to the connection method and STM32 hardware synchronization solution in [LIV_handhold](https://github.com/xuankuzcr/LIV_handhold).
+> If you do not need to use the LiDAR-Camera hardware synchronizer, please refer to the connection method and STM32 hardware synchronization solution in [LIV_handhold](https://github.com/xuankuzcr/LIV_handhold).
 
 ---
 
@@ -112,10 +112,10 @@ rosbag record /livox/lidar /livox/imu /left_camera/image
 
 ---
 
-## LiDAR–Camera Joint Calibration
+## LiDAR-Camera Joint Calibration
 
 1. Calibrate camera intrinsics. e.g. [matlab](https://ustc-flicar.github.io/calibration/index#cameras).
-2. Use [FAST-Calib](https://github.com/hku-mars/FAST-Calib) for LiDAR–camera extrinsic calibration.
+2. Use [FAST-Calib](https://github.com/hku-mars/FAST-Calib) for LiDAR-camera extrinsic calibration.
 
 <p align="center">
   <img src="docs/assets/33.jpg" alt="camera calibration" width="44%"/>
