@@ -1,0 +1,25 @@
+%YAML:1.0
+
+#--------------------------------------------------------------------------------------------
+# Camera Parameters. Adjust them!
+#--------------------------------------------------------------------------------------------
+SerialNumber: "K34130194" # Not needed for single camera. Specify serial number for multiple cameras. 
+TopicName: "right_camera/image"
+
+TriggerEnable: 1 # 0 stands for Off, 1 stands for On
+
+ExposureAutoMode: 0 # 0 stands for Off, 1 stands for Once, 2 stands for Continues
+ExposureTime: 5000 # us
+
+# ExposureAutoMode: 2
+# AutoExposureTimeLower: 100
+# AutoExposureTimeUpper: 20000
+
+image_scale: 0.5 # 1 0.5
+GainAuto: 2 # Gain Auto, 0 stands for Off, 1 stands for Once, 2 stands for Continues
+Gain: 15 # min: 0   max: 17.0166
+Gamma: 0.7  # min: 0   max: 17.0166
+GammaSelector: 1 # 0 stands for user, 1 stands for sRGB
+# GammaEnable: 1
+
+PixelFormat: 0 # 0: RGB8, 1: BayerRG8, 2: BayerRG12Packed, 3: BayerGB12Packed, 4: BayerGB8
