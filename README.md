@@ -23,7 +23,7 @@
 - [Assembly](#assembly)
 - [Wiring](#wiring)
 - [Driver Installation and Run](#driver-installation-and-run)
-- [LiDAR–Camera Joint Calibration](#lidar–camera-joint-calibration)
+- [LiDAR–Camera Joint Calibration](#lidar-camera-joint-calibration)
 - [Running FAST-LIVO2](#running-fast-livo2)
 - [Platform Adaptability](#platform-adaptability)
 - [Acknowledgements](#acknowledgements)
