@@ -3,7 +3,7 @@
   <img src="docs/assets/logo.png" width="120" alt="LIV-eye logo"/>
 </p>
 
-<h1 align="center">LIV-Eye: A Low-Cost LiDAR–Inertial-Visual Fusion 3D Sensor for Robotics and Embodied AI <a href="./README_zh.md">[中文]</a></h1>
+<h1 align="center">LIV-Eye: A Low-Cost LiDAR-Inertial-Visual Fusion 3D Sensor for Robotics and Embodied AI <a href="./README_zh.md">[中文]</a></h1>
 
 
 
