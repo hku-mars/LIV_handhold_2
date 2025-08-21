@@ -38,7 +38,7 @@
 
 ## Repository Structure
 ```text
-├── FAST-LIVO2 - a version of FAST-LIVO2 supporting Mid-360 
+├── FAST-LIVO2-Mid360-Config - The configuration and launch files of FAST-LIVO2 for the Mid-360 LiDAR
 ├── liv_eye_cad - Solidworks files for LIV-Eye
 ├── livox_ros_driver2 - Livox LiDAR ROS driver
 ├── mvs_ros_driver - Hikvision Camera ROS driver
