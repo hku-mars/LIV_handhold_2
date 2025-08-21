@@ -116,6 +116,8 @@ rosbag record /livox/lidar /livox/imu /left_camera/image
 ```bash
 roslaunch fast_livo mapping_mid360.launch
 ```
+
+该演示对应的示例 LIV-Eye rosbag，可以在[这里](https://pan.baidu.com/s/1EPwwCfSuxfLHgiE5DOQ_zA?pwd=w2dd)下载。
 <p align="center">
   <img src="docs/assets/livo.jpg" alt="livo2效果" width="100%">
 </p>
