@@ -115,7 +115,7 @@ rosbag record /livox/lidar /livox/imu /left_camera/image
 
 ## 运行FAST-LIVO2
 
-安装[FAST-LIVO2](./FAST-LIVO2/)。针对 Mid-360 的配置文件和启动文件已在 [FAST-LIVO2-Mid360-Config](./FAST-LIVO2-Mid360-Config) 中提供。修改内外参为当前设备，运行：
+安装[FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2)。针对 Mid-360 的配置文件和启动文件已在 [FAST-LIVO2-Mid360-Config](./FAST-LIVO2-Mid360-Config) 中提供。修改内外参为当前设备，运行：
 ```bash
 roslaunch fast_livo mapping_mid360.launch
 ```
