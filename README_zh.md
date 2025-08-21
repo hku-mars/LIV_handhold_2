@@ -1,15 +1,12 @@
-<p align="center">
-  <img src="docs/assets/logo.png" width="120" alt="LIV-eye logo"/>
-</p>
-
-<h1 align="center">LIV-Eye: 用于机器人和具身智能的低成本激光雷达-惯性-视觉融合的3D传感器</h1>
-
+<img src="docs/assets/logo.png" width="120" alt="LIV-eye logo" align="left"/>
+<h1>LIV-Eye: 用于机器人和具身智能的低成本激光雷达-惯性-视觉融合的3D传感器 <a href="./README.md">[English]</a></h1>
 
 <p align="center">
 <a href="LICENSE"><img alt="Software License" src="https://img.shields.io/badge/Software-GPLv3-blue"></a>
   <a href="LICENSES/HARDWARE-CERN-OHL-S-2.0.txt"><img alt="HW License" src="https://img.shields.io/badge/Hardware-CERN--OHL--S--2.0-green"></a>
   <a href="LICENSES/DOCS-CC-BY-4.0.txt"><img alt="Docs License" src="https://img.shields.io/badge/Docs-CC%20BY%204.0-yellow"></a>
 </p>
+
 
 ---
 
