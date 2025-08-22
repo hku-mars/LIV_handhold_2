@@ -128,8 +128,10 @@ roslaunch fast_livo mapping_mid360.launch
 凭借其紧凑的尺寸、标准化的布线和开源软件，它可以轻松集成到各种机器人平台中，用于感知、导航和具身智能研究。
 
 <p align="center">
-  <img src="docs/assets/mobile.jpg" alt="LIV-Eye on wheeled robot" width="43%"/>
+  <img src="docs/assets/mobile.jpg" alt="LIV-Eye on wheeled robot" width="40%"/>
+  <img src="docs/assets/all_platform.jpg" alt="fast calib" width="53%"/>
 </p>
+
 
 ## 致谢
 

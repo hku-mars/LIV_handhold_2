@@ -136,7 +136,8 @@ This demo corresponds to the example LIV-Eye rosbag, which can be downloaded [he
 **LIV-Eye is compact yet versatile!** With its small form factor, standardized wiring, and open-source software, it can be seamlessly integrated into a wide range of robotic platforms to enable perception, navigation, and embodied AI research.
 
 <p align="center">
-  <img src="docs/assets/mobile.jpg" alt="LIV-Eye on wheeled robot" width="43%"/>
+  <img src="docs/assets/mobile.jpg" alt="LIV-Eye on wheeled robot" width="40%"/>
+  <img src="docs/assets/all_platform.jpg" alt="fast calib" width="53%"/>
 </p>
 
 
