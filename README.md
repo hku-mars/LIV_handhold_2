@@ -124,7 +124,7 @@ Install [FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2). The configuration 
 roslaunch fast_livo mapping_mid360.launch
 ```
 
-This demo corresponds to the example LIV-Eye rosbag, which can be downloaded [here](https://pan.baidu.com/s/1EPwwCfSuxfLHgiE5DOQ_zA?pwd=w2dd).
+This demo corresponds to the example LIV-Eye rosbag, which can be downloaded [here](https://pan.baidu.com/s/1bs9hSF9BD0LZFTiiEkNLeg?pwd=2zr5).
 <p align="center">
   <img src="docs/assets/livo.jpg" alt="livo2 results" width="100%">
 </p>
