@@ -147,7 +147,7 @@ This project is based on the following open-source projects:
 - Driver and time synchronization: [LIV_handhold](https://github.com/xuankuzcr/LIV_handhold)  
 - Calibration method: [FAST-Calib](https://github.com/hku-mars/FAST-Calib)  
 - Algorithm: [FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2)  
-
+- CAD Model: [Link](https://github.com/hku-mars/FAST-LIVO2/issues/119) by [pcl5](https://github.com/pcl5)
 ---
 
 ## License

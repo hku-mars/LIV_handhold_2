@@ -138,6 +138,7 @@ roslaunch fast_livo mapping_mid360.launch
 - 驱动与时间同步：[LIV_handhold](https://github.com/xuankuzcr/LIV_handhold)  
 - 标定方法：[FAST-Calib](https://github.com/hku-mars/FAST-Calib)  
 - 算法：[FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2)  
+- CAD Model: [Link](https://github.com/hku-mars/FAST-LIVO2/issues/119) by [pcl5](https://github.com/pcl5)
 
 
 ## 许可证
