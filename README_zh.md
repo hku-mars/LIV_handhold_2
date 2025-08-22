@@ -129,7 +129,7 @@ roslaunch fast_livo mapping_mid360.launch
 
 <p align="center">
   <img src="docs/assets/mobile.jpg" alt="LIV-Eye on wheeled robot" width="40%"/>
-  <img src="docs/assets/all_platform.jpg" alt="fast calib" width="53%"/>
+  <img src="docs/assets/platform.jpg" alt="fast calib" width="53%"/>
 </p>
 
 
@@ -140,7 +140,7 @@ roslaunch fast_livo mapping_mid360.launch
 - 驱动与时间同步：[LIV_handhold](https://github.com/xuankuzcr/LIV_handhold)  
 - 标定方法：[FAST-Calib](https://github.com/hku-mars/FAST-Calib)  
 - 算法：[FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2)  
-- CAD Model: [Link](https://github.com/hku-mars/FAST-LIVO2/issues/119) by [pcl5](https://github.com/pcl5)
+- CAD Design: [Link](https://github.com/hku-mars/FAST-LIVO2/issues/119) by [pcl5](https://github.com/pcl5)
 
 
 ## 许可证
