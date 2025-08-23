@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<a href="LICENSE"><img alt="Software License" src="https://img.shields.io/badge/Software-GPLv3-blue"></a>
+<a href="LICENSE"><img alt="Software License" src="https://img.shields.io/badge/Software-GPLv2-blue"></a>
 <a href="LICENSES/HARDWARE-CERN-OHL-S-2.0.txt"><img alt="HW License" src="https://img.shields.io/badge/Hardware-CERN--OHL--S--2.0-green"></a>
 <a href="LICENSES/DOCS-CC-BY-4.0.txt"><img alt="Docs License" src="https://img.shields.io/badge/Docs-CC%20BY%204.0-yellow"></a>
 </p>
@@ -153,7 +153,7 @@ This project is based on the following open-source projects:
 
 ## License
 
-The source code is released under the GPLv3 license.  
+The source code is released under the GPLv2 license.  
 
 If you use this codebase in academic research, please cite any of the following papers:
 
